@@ -1,0 +1,4 @@
+#function arbitrary args
+def sample(**a):
+   print("name:"+sample["name"])
+print(sample(name="alan",age=22))
